@@ -97,7 +97,7 @@ body{
 /* midnight section starts here */
 
 .midnight-party-section-container{
-     width: 1320px;
+    width: 1320px;
     height: 600px;
     border-radius: 16px;
     margin: 0 auto;
@@ -159,3 +159,51 @@ body{
     margin-right: 400px;
     margin-top: 50px;
 }
+
+/* Time Schadule Style */
+.time-schadule-container{
+    width: 1320px;
+    height: 482px;
+    border-radius: 16px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.time-schadule-content{
+    width: 550px;
+    height: 275px;
+    border-radius: 8px;
+    text-align: center;
+    padding: 50px;
+}
+
+.time-schadule-content h4 span{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: semibold;
+    color: red;
+}
+
+.time-schadule-content h4{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: semibold;
+}
+
+.time-schadule-content button{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    background-color: red;
+    margin-top: 25px;
+    padding: 10px;
+
+}
+
