@@ -20,7 +20,7 @@ body{
     margin-top: 20px;
     border-radius: 16px;
     background-color: rgba(0, 0, 0, 0.4);
-    background-image: url("../images/Banner.png");
+    background-image: url("/images/Banner.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -99,12 +99,11 @@ body{
 .midnight-party-section-container{
      width: 1320px;
     height: 600px;
-    border: 2px solid black;
     border-radius: 16px;
     margin: 0 auto;
     display: flex;
     background-color: rgba(0, 0, 0, 0.5);
-    background-image: url('../images/Vectorrr.png');
+    background-image: url('/images/Vectorrr.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
